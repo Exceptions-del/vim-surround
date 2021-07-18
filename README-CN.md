@@ -67,6 +67,7 @@ Surround.vim 用于 圆括号、方括号、引号、XML 标签等等。该插�
     Plugin 'https://github.com/tpope/vim-surround.git'   
 使用 [Plug](https://github.com/junegunn/vim-plug.git) 安装 , 在你的 <b>.vimrc</b> 下添加这一行代码 , 在vim中使用 <b>:PlugInstall</b> 命令安装
 
+    Plug 'https://github.com/tpope/vim-surround.git'
 ## 贡献
 
 请参阅pathogen.vim的贡献指南。  
